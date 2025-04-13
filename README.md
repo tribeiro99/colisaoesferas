@@ -1,0 +1,1 @@
+Projeto feito em C, inicialmente tratou-se de um projeto em 2D que envolvia só dar as coordenadas,velocidade,e o tempo e mostrar se havia colisão num plano cartesiano. Depois surgiu a iniciativa de abordar o sdl para construir uma dimensão gráfica porém ficava em apenas 2D, decidi introduzir-me no opengl de maneira a que eu possa trabalhar com o plano 3D.
